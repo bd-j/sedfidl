@@ -1,0 +1,8 @@
+filter  mag_(AB)
+spitzer_irac_chch1     -12.0598
+spitzer_irac_chch2     -12.1290
+spitzer_irac_chch3     -13.5203
+spitzer_irac_chch4     -13.0879
+spitzer_mips_ch24     -14.4843
+spitzer_mips_ch70     -12.5880
+spitzer_mips_ch160     -13.2138

@@ -1,0 +1,119 @@
+SEDFIDL V3.1  (previously specfit_v3)
+===========
+
+--------
+SETUP
+--------
+SEDFIDL uses IDL callable C routines from k_correct (Mike Blanton's code) to do the convolutions of filters with spectra for synthetic photometry.  As such both k_correct and idlutils are required to be installed for SEDFIDL to work
+
+Two environment variables should be set:
+export SPECFIT_DIR=$HOME/IDL/sedfidl/ (or whatever the path to your installation directory)
+export SPECFIT_LIB=$SPECFIT_DIR/sedlib/
+
+The first gives the location of the code, the second gives the location of the GALAXEV produced ised files (which can be numerous and large, and can be moved to a user defined location with the same subdirectory structure).  Of course, make sure SPECFIT_DIR is in your IDL path.
+
+The code also uses the IDL environment variables !lightspeed = 2.997E18, !pc2cm = 3.0857000e+18, and !lsun=3.82700e+33
+
+----------
+Change Log
+------------
+V2_0:
+
+The code has been re-written to allow for significantly more control of model ages.  BC03 models are now interpolated in both age and metallicity.  A lot of general clean up and some bug fixes of the calculation of IR luminosities for nonstandard alpha_bc. Note that IGM attenuation of the 912<lambda_rest<1216 spectrum was disabled by this change, but may be reimplemented in the future for users considering high redshifts.
+
+V3_0:
+There has been significant code redesign to allow for user determination of the dust attenuation curve.  Dust attenuation is now computed on the fly, in a vectorised manner, for both the birth cloud (t<10^7 years) and older populations.  This results in a significant decrease in the number of precompiled models required (only SFH and metallicity needs to be varied in the library, though for each SFH+metallicity a model with and without power law dust (and mu != 1) is required to be precompiled to allow for extraction of the young star spectrum).  Speed is also dramatically improved. User attenuation curves can be added following the existing attenuation curve code in the $SPECFIT_DIR/dust/ directory. Note that the integration of the SEDs to obtain dust luminosities is about as crude as it can get, but should be sufficiently accurate with well sampled SEDs for nearly all purposes.  If anybody knows of a vectorized, fast, and accurate IDL integrator please let me know....
+
+The smaller number of precompiled models is compensated for by a significant increase in the runtime memory requirements, as larger numbers of models are held in memory at one time while an attenuation array is applied (epecially for bursts).  This can be mitigated by increasing the number of precompiled SFHs. There is also a variable called memlimit (currently hardcoded at value of 5E3) that restricts the number of models considered in each loop iteration - this limit avoids disk flogging on a MBP with 8GB RAM running IDL7.1 in 64 bit.  grep memlimit */*.pro should find all instances if you want to change this
+
+V3_1:
+Fixed a bug in quantities_ztd that led to incorrect dust luminosities for young and bc dust. Fixed a bug in the spectral interpolations that caused no temporal interpolation to occur if any one of the models had a very young age.  Fixed a bug in init_models that resulted in wildly incorrect emission line corrections.  Updated init_models to handle lyman continuum absorption by dust and/or escape.  IGM attenuation reimplemented.
+
+------
+
+There will be bugs.  I have tested the code for my purposes, but much of the flexibility I have tried to include has not been extensively tested. Please check your output for sane results, and please let me know about any bugs.
+
+---------
+CODE DESCRIPTION
+--------
+
+0) Base models: The precompiled SPS models from which a model grid will be constructed can be generated using the BC03 galaxev code and routines in the generate_lib directory.  In general these precompiled models should span the range of SFH desired by the user, with one dust-free and one dusty model for each SFH.  The format of the filenames is very important. Some parameters of the precompiled SPS models should be listed in the specfit_libpars routine, namely the dust parameters of the dusty models.  Note that in my case, the CB07 SPS models were generated with a different power law (alpha_bc=1.3) for the birth cloud dust than is the default for galaxev, and this is reflected in the specfit_libpars routine.  Other users will want to stick with the default (alpha_bc=0.7) if they have not modified GALAXEV.
+
+1) SED parameters: The code is designed to generate large 'grids' of narrow or broadband galaxy SEDs and associated physical properties (mass, SFR, etc.), which can then be fit to data.  The grids are generated after drawing a large number of model parameters from prior distributions.  The model parameters are:
+
+stellar metallicity
+age
+SFH
+dust attenuation of the t>10^7 yrs old stars
+dust attenuation of the t<10^7 yrs old stars
+(redshift)
+(fraction of lyman continuum photons that escape the galaxy)
+(fraction of lyman continuum photons that are absorbed by dust before ionizing H)
+
+The drawing of these parameters is done by the 'draw_params_ztd' routine, which the user will need to modify if different prior distributions are desired.
+
+2) SPS and dust attenuation curves: There are also several aspects of the SED models that can be definied by the user, namely the choice of BC03 or CB07 SED models (in principle additional SPS code output, e.g. Starburst99, could be incorporated, through the appropriate modification of low level code), and the shape of dust attenuation curves (e.g. power law, calzetti, conroy, smc, lmc, MW).  The latter is specified by passing a string that names the function (and any arguments) that returns tau_lambda/tau_5500 for a given lambda.  A number of common attenuation/extinction curves are included in the code in the dust/ subdirectory.  Different extinction curves may be used for the different dust components (young and old stars)
+
+   VERS_BC03
+   BC_DUST
+   DIFF_DUST
+
+3) Bursts: Finally, the code allows for the addition of bursts of star formation (with availabe burst shapes being 100Myr long top hats or 40Myr 'delayed' models, but this can in principle be augmented by the user) that occurred in the past of each 'host' with a user defined average frequency and maximum age, and with a user defined distribution of amplitudes relative to the 'host' galaxy. The amplitude may be defined in terms of relative SFR at the peak of the burst or relative stellar mass formed. The total number of burst SEDs that will be generated is given by the frequency times the maximum age times the number of 'hosts'.  Typically, users will want the bursts will have the same properties (metallicity, attenuation) as the hosts, but this is not required (though it is required that all bursts for a given host have the same parameters).  The actual combination of the burst SEDs with the hosts uses the add_bursts_zt routine.
+
+   BURSTROOT
+   TAU_BURST
+   FREQ_BURST
+   DELTA_T
+   WEIGHT_TYPE
+   WEIGHT_DIST
+   LOGRANGE
+   SCALE
+
+4) Filters and projections: In detail the lower-level code interpolates precompiled SPS models in time and metallicity, separates the spectra into young and old components, applies dust attenuation to these components, and projects each model spectrum onto a user defined set of filters, returning absolute magnitudes.  The total luminosity absorbed by dust (excluding shortward of 912AA) is determined, and the numbers of Lyman continuum photons are also stored, along with a number of other physical properties of the model (mass, sfr, metallicity, etc.).  For redshifts greater than 1.5 attenuation of the 912<lambda<1216 portion of the SED is determined from interpolations of the transmission functions of Meiksen et al.  Corrections to the broadband magnitudes to account for the contribution of nebular emission may be calculated.
+
+   FILTERS
+   EMCORR
+
+Code output is organized in structures.  Units are AB magnitudes for the 'mag' fields, and for the dust and ionizing luminosities, erg/s/cm^2 if the object were at 10pc.
+
+5) Fitting.  The fitting is accomplished by calculating, for each observed SED, the chi-square of every model. The cumulative distribution function for any parameter or property of the model (a list of properties to include can be given by the user), marginalized over all other properties, is returned along with the best-fit parameters.  Multidimensional likelihood contours can be determined from the chi-square stored for each model.
+
+
+Below is a sort of diagram of the code.  Users will likely want to alter items marked with %
+
+%specfit
+------
+	-%draw_params_ztd(l) 
+	-photo_grid_ztd  
+		-specfit_libpars
+		-quantities_ztd
+			-interp_bc_zt
+				-bdj_read_sps_zt
+					-k_im_read_bc03_v3
+					-k_im_read_cb07_v3
+			-dust/*.pro
+			-igm_attenuate
+			-bc_vals_new
+	-burst_grid_ztd
+		-specfit_libpars
+		-quantities_ztd
+			-interp_bc_zt
+				-bdj_read_sps_zt
+					-k_im_read_bc03_v3
+					-k_im_read_cb07_v3
+
+			-dust/*.pro
+			-igm_attenuate
+			-bc_vals_new
+	-add_bursts
+	-%init_models_ztd
+		-reconstruct_sfh
+		-hii_spec
+	-%init_data
+	-phot_fit_compress
+		-find_xi_photo
+		-build_cdf
+			-cumul_array
+
+TODO:
+  move most setup variables to a parameter file read at runtime.  Better documentation of setup parameters.

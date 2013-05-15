@@ -1,0 +1,28 @@
+title Charlot HII region
+c HII region grid following Charlot & Longhetti 2000
+c continuum ====
+black body, T=40,000K
+q(h) 47.73
+c add the CMB after hot star shape & luminosity specified
+CMB
+c density & abundance ====
+hden =       2.00000
+metals deplete
+grains Orion 1.0
+metals and grains 1.0
+c commands controlling geometry ====
+radius =       17.4771
+sphere
+c to make sure we pick up all possible H recombination
+stop temperature 600
+stop efrac -2
+c other commands for details ====
+c must iterate since fine structure lines are optically thick
+iterate
+c get output spectra that are actually useful
+set punchLwidth c 
+c commands controlling output ====
+punch results last "HII_T40k_nH100_U-2.5_Z1.0_hires.rlt" column
+punch hydrogen conditions "HII_T40k_nH100_U-2.5_Z1.0_hires.hyd"
+punch lines array last "HII_T40k_nH100_U-2.5_Z1.0_hires.lint"
+punch continuum last "HII_T40k_nH100_U-2.5_Z1.0_hires.cont"

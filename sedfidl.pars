@@ -1,0 +1,30 @@
+;------MODELS AND FILTERS------
+10                    // nmod
+default_filters.filt  //filterfile
+*		      //fc
+1		      //do_ha
+1		      //do_lir
+0		      //redshifts
+
+;--FILENAMES AND CREATION FLAGS---
+testh	     	      //hostsname
+testb		      //burstsname
+1		      //newhosts
+1		      //newbursts
+testf		      //fitname
+
+;---SPS AND BURST DESCRIPTION---
+0		       //vers_bc03 (0|1)
+*        	       //bc_dust curve
+*		       //diff dust curve
+'cb07_burst40MyrDelay' //burstroot
+2.0		       //delta_t    (Gyr)
+1.0		       //freq_burst (1/Gyr)
+40E6		       //tau_burst
+1.025		       //burst_tot_mass
+
+;-----BURST WEIGHTING--------
+sfr		       //weight_type (sfr|mass)
+logarithmic	       //weight_dist (logarithmic|uniform)
+2		       //log_range (range for logarithmic distribution)
+1		       //scale

@@ -1,0 +1,71 @@
+;my_name     wave       cloudy_name   cloudy_name_2  *don't use tabs*
+;includes all lines brighter than ~Ha/40 and some addtional metal lines
+ly_alpha     1216       H  1  1216A
+;n_v         1239       ;N  5  1239A
+c_ii         1336       C  2  1335A
+c_iv         1548       C  4  1548A
+he_ii        1640       He 2  1640A
+c_iii        1907       C  3  1907A
+c_iii        1910       C  3  1910A
+;ne_iv       2424       Ne 4  2424A
+mg_ii        2797       Mg 2  2797A
+mg_ii        2803       Mg 2  2803A
+o_ii         3727       TOTL  3727A
+h_theta      3798       H  1  3798A
+h_eta        3835       H  1  3835A
+ne_iii       3869       Ne 3  3869A
+He_I         3889       He 1  3889A 
+H_zeta       3889       H  1  3889A
+H_eps        3970       H  1  3970A 
+s_ii         4070       S II  4070A
+h_delta      4102       H  1  4102A   Ca B  4102A
+h_gamma      4340       H  1  4340A   Ca B  4340A
+o_iii        4363       TOTL  4363A
+h_beta       4861       TOTL  4861A   Ca B  4861A
+o_iii        4959       O  3  4959A
+o_iii        5007       O  3  5007A
+he_i         5876       He 1  5876A
+o_i          6300       O  1  6300A
+n_ii         6548       N  2  6548A
+h_alpha      6563       H  1  6563A   Ca B  6563A
+ha_caseB     6563       Ca B  6563A
+n_ii         6584       N  2  6584A
+s_ii         6717       S II  6716A
+s_ii         6731       S II  6731A
+ar_iii       7135       Ar 3  7135A
+ca_II        7325       TOTL  7325A
+ar_iii       7751       Ar 3  7751A
+pa_eta       9015       H  1  9015A
+s_iii        9069       S  3  9069A
+pa_zeta      9229       H  1  9229A
+s_iii        9532       S  3  9532A
+
+
+;SPITZER
+Br_alpha     4.05       H  1 4.051m
+ar_ii        6.98       Ar 2 6.980m
+ar_iii       9.0        Ar 3 9.000m
+s_iv         10.51      S  4 10.51m
+ne_ii        12.8       Ne 2 12.81m
+nev          14.3                 
+cl_ii        14.40      Cl 2 14.40m
+ne_iii       15.55      Ne 3 15.55m
+p_iii        17.89      P  3 17.89m
+fe_ii        17.94      Fe 2 17.94m
+s_iii        18.67      S  3 18.67m
+ar_iii       21.83      Ar 3 21.83m 
+fe_iii       22.92      Fe 3 22.92m
+fe_ii        25.99      Fe 2 25.99m
+o_iv         25.88      O  4 25.88m
+fe_iii       33.03      Fe 3 33.03m
+s_iii        33.47      S  3 33.47m
+Si_II        34.81      Si 2 34.81m
+
+;HERSCHEL
+o_i          63.17      O  1 63.17m
+o_iii        51.80      O  3 51.80m
+n_iii        57.21      N  3 57.21m
+o_iii        88.33      O  3 88.33m
+n_ii         121.7      N  2 121.7m
+c_ii         157.6      C  2 157.6m
+n_ii         205.4      N  2 205.4m

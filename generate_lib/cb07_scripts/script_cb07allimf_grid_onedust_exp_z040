@@ -1,0 +1,222 @@
+#
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.01
+N
+20.0
+cb07salp_exp000010_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.01
+N
+20.0
+cb07salp_exp000010_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.02
+N
+20.0
+cb07salp_exp000020_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.02
+N
+20.0
+cb07salp_exp000020_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.04
+N
+20.0
+cb07salp_exp000040_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.04
+N
+20.0
+cb07salp_exp000040_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.06
+N
+20.0
+cb07salp_exp000060_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.06
+N
+20.0
+cb07salp_exp000060_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.08
+N
+20.0
+cb07salp_exp000080_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.08
+N
+20.0
+cb07salp_exp000080_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.01
+N
+20.0
+cb07chab_exp000010_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.01
+N
+20.0
+cb07chab_exp000010_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.02
+N
+20.0
+cb07chab_exp000020_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.02
+N
+20.0
+cb07chab_exp000020_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.04
+N
+20.0
+cb07chab_exp000040_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.04
+N
+20.0
+cb07chab_exp000040_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.06
+N
+20.0
+cb07chab_exp000060_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.06
+N
+20.0
+cb07chab_exp000060_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.08
+N
+20.0
+cb07chab_exp000080_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.08
+N
+20.0
+cb07chab_exp000080_z040_mu03_tv10
+!
+mv cb07*_exp*_z040* $SPECFIT_LIB/cb07/z040/

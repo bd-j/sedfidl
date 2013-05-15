@@ -1,0 +1,1762 @@
+#
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.01
+N
+20.0
+bc03salp_exp000010_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.01
+N
+20.0
+bc03salp_exp000010_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.02
+N
+20.0
+bc03salp_exp000020_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.02
+N
+20.0
+bc03salp_exp000020_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.04
+N
+20.0
+bc03salp_exp000040_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.04
+N
+20.0
+bc03salp_exp000040_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.06
+N
+20.0
+bc03salp_exp000060_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.06
+N
+20.0
+bc03salp_exp000060_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.08
+N
+20.0
+bc03salp_exp000080_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.08
+N
+20.0
+bc03salp_exp000080_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.10
+N
+20.0
+bc03salp_exp000100_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.10
+N
+20.0
+bc03salp_exp000100_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.12
+N
+20.0
+bc03salp_exp000120_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.12
+N
+20.0
+bc03salp_exp000120_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.14
+N
+20.0
+bc03salp_exp000140_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.14
+N
+20.0
+bc03salp_exp000140_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.16
+N
+20.0
+bc03salp_exp000160_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.16
+N
+20.0
+bc03salp_exp000160_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.18
+N
+20.0
+bc03salp_exp000180_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.18
+N
+20.0
+bc03salp_exp000180_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.20
+N
+20.0
+bc03salp_exp000200_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.20
+N
+20.0
+bc03salp_exp000200_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.30
+N
+20.0
+bc03salp_exp000300_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.30
+N
+20.0
+bc03salp_exp000300_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.40
+N
+20.0
+bc03salp_exp000400_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.40
+N
+20.0
+bc03salp_exp000400_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.50
+N
+20.0
+bc03salp_exp000500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.50
+N
+20.0
+bc03salp_exp000500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.60
+N
+20.0
+bc03salp_exp000600_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.60
+N
+20.0
+bc03salp_exp000600_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.80
+N
+20.0
+bc03salp_exp000800_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.80
+N
+20.0
+bc03salp_exp000800_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.00
+N
+20.0
+bc03salp_exp001000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.00
+N
+20.0
+bc03salp_exp001000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.20
+N
+20.0
+bc03salp_exp001200_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.20
+N
+20.0
+bc03salp_exp001200_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.40
+N
+20.0
+bc03salp_exp001400_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.40
+N
+20.0
+bc03salp_exp001400_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.60
+N
+20.0
+bc03salp_exp001600_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.60
+N
+20.0
+bc03salp_exp001600_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.80
+N
+20.0
+bc03salp_exp001800_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.80
+N
+20.0
+bc03salp_exp001800_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 2.00
+N
+20.0
+bc03salp_exp002000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 2.00
+N
+20.0
+bc03salp_exp002000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 2.50
+N
+20.0
+bc03salp_exp002500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 2.50
+N
+20.0
+bc03salp_exp002500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 3.00
+N
+20.0
+bc03salp_exp003000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 3.00
+N
+20.0
+bc03salp_exp003000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 3.50
+N
+20.0
+bc03salp_exp003500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 3.50
+N
+20.0
+bc03salp_exp003500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 4.00
+N
+20.0
+bc03salp_exp004000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 4.00
+N
+20.0
+bc03salp_exp004000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 4.50
+N
+20.0
+bc03salp_exp004500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 4.50
+N
+20.0
+bc03salp_exp004500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 5.00
+N
+20.0
+bc03salp_exp005000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 5.00
+N
+20.0
+bc03salp_exp005000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 5.50
+N
+20.0
+bc03salp_exp005500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 5.50
+N
+20.0
+bc03salp_exp005500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 6.00
+N
+20.0
+bc03salp_exp006000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 6.00
+N
+20.0
+bc03salp_exp006000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 6.50
+N
+20.0
+bc03salp_exp006500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 6.50
+N
+20.0
+bc03salp_exp006500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 7.00
+N
+20.0
+bc03salp_exp007000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 7.00
+N
+20.0
+bc03salp_exp007000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 8.00
+N
+20.0
+bc03salp_exp008000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 8.00
+N
+20.0
+bc03salp_exp008000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 9.00
+N
+20.0
+bc03salp_exp009000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 9.00
+N
+20.0
+bc03salp_exp009000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+10.00
+N
+20.0
+bc03salp_exp010000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+10.00
+N
+20.0
+bc03salp_exp010000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+11.00
+N
+20.0
+bc03salp_exp011000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+11.00
+N
+20.0
+bc03salp_exp011000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+12.00
+N
+20.0
+bc03salp_exp012000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+12.00
+N
+20.0
+bc03salp_exp012000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+13.00
+N
+20.0
+bc03salp_exp013000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+13.00
+N
+20.0
+bc03salp_exp013000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+14.00
+N
+20.0
+bc03salp_exp014000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+14.00
+N
+20.0
+bc03salp_exp014000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+15.00
+N
+20.0
+bc03salp_exp015000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+15.00
+N
+20.0
+bc03salp_exp015000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.01
+N
+20.0
+bc03chab_exp000010_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.01
+N
+20.0
+bc03chab_exp000010_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.02
+N
+20.0
+bc03chab_exp000020_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.02
+N
+20.0
+bc03chab_exp000020_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.04
+N
+20.0
+bc03chab_exp000040_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.04
+N
+20.0
+bc03chab_exp000040_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.06
+N
+20.0
+bc03chab_exp000060_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.06
+N
+20.0
+bc03chab_exp000060_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.08
+N
+20.0
+bc03chab_exp000080_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.08
+N
+20.0
+bc03chab_exp000080_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.10
+N
+20.0
+bc03chab_exp000100_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.10
+N
+20.0
+bc03chab_exp000100_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.12
+N
+20.0
+bc03chab_exp000120_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.12
+N
+20.0
+bc03chab_exp000120_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.14
+N
+20.0
+bc03chab_exp000140_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.14
+N
+20.0
+bc03chab_exp000140_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.16
+N
+20.0
+bc03chab_exp000160_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.16
+N
+20.0
+bc03chab_exp000160_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.18
+N
+20.0
+bc03chab_exp000180_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.18
+N
+20.0
+bc03chab_exp000180_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.20
+N
+20.0
+bc03chab_exp000200_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.20
+N
+20.0
+bc03chab_exp000200_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.30
+N
+20.0
+bc03chab_exp000300_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.30
+N
+20.0
+bc03chab_exp000300_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.40
+N
+20.0
+bc03chab_exp000400_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.40
+N
+20.0
+bc03chab_exp000400_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.50
+N
+20.0
+bc03chab_exp000500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.50
+N
+20.0
+bc03chab_exp000500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.60
+N
+20.0
+bc03chab_exp000600_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.60
+N
+20.0
+bc03chab_exp000600_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 0.80
+N
+20.0
+bc03chab_exp000800_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 0.80
+N
+20.0
+bc03chab_exp000800_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.00
+N
+20.0
+bc03chab_exp001000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.00
+N
+20.0
+bc03chab_exp001000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.20
+N
+20.0
+bc03chab_exp001200_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.20
+N
+20.0
+bc03chab_exp001200_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.40
+N
+20.0
+bc03chab_exp001400_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.40
+N
+20.0
+bc03chab_exp001400_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.60
+N
+20.0
+bc03chab_exp001600_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.60
+N
+20.0
+bc03chab_exp001600_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 1.80
+N
+20.0
+bc03chab_exp001800_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 1.80
+N
+20.0
+bc03chab_exp001800_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 2.00
+N
+20.0
+bc03chab_exp002000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 2.00
+N
+20.0
+bc03chab_exp002000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 2.50
+N
+20.0
+bc03chab_exp002500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 2.50
+N
+20.0
+bc03chab_exp002500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 3.00
+N
+20.0
+bc03chab_exp003000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 3.00
+N
+20.0
+bc03chab_exp003000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 3.50
+N
+20.0
+bc03chab_exp003500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 3.50
+N
+20.0
+bc03chab_exp003500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 4.00
+N
+20.0
+bc03chab_exp004000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 4.00
+N
+20.0
+bc03chab_exp004000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 4.50
+N
+20.0
+bc03chab_exp004500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 4.50
+N
+20.0
+bc03chab_exp004500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 5.00
+N
+20.0
+bc03chab_exp005000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 5.00
+N
+20.0
+bc03chab_exp005000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 5.50
+N
+20.0
+bc03chab_exp005500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 5.50
+N
+20.0
+bc03chab_exp005500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 6.00
+N
+20.0
+bc03chab_exp006000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 6.00
+N
+20.0
+bc03chab_exp006000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 6.50
+N
+20.0
+bc03chab_exp006500_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 6.50
+N
+20.0
+bc03chab_exp006500_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 7.00
+N
+20.0
+bc03chab_exp007000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 7.00
+N
+20.0
+bc03chab_exp007000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 8.00
+N
+20.0
+bc03chab_exp008000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 8.00
+N
+20.0
+bc03chab_exp008000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+ 9.00
+N
+20.0
+bc03chab_exp009000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+ 9.00
+N
+20.0
+bc03chab_exp009000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+10.00
+N
+20.0
+bc03chab_exp010000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+10.00
+N
+20.0
+bc03chab_exp010000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+11.00
+N
+20.0
+bc03chab_exp011000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+11.00
+N
+20.0
+bc03chab_exp011000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+12.00
+N
+20.0
+bc03chab_exp012000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+12.00
+N
+20.0
+bc03chab_exp012000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+13.00
+N
+20.0
+bc03chab_exp013000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+13.00
+N
+20.0
+bc03chab_exp013000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+14.00
+N
+20.0
+bc03chab_exp014000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+14.00
+N
+20.0
+bc03chab_exp014000_z100_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+1
+15.00
+N
+20.0
+bc03chab_exp015000_z100_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m62_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+1
+15.00
+N
+20.0
+bc03chab_exp015000_z100_mu03_tv10
+!
+mv bc03*_exp*_z100* $SPECFIT_LIB/bc03/z100/

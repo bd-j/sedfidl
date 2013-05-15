@@ -1,0 +1,222 @@
+#
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.01
+N
+20.0
+cb07salp_delay000010_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.01
+N
+20.0
+cb07salp_delay000010_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.02
+N
+20.0
+cb07salp_delay000020_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.02
+N
+20.0
+cb07salp_delay000020_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.04
+N
+20.0
+cb07salp_delay000040_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.04
+N
+20.0
+cb07salp_delay000040_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.06
+N
+20.0
+cb07salp_delay000060_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.06
+N
+20.0
+cb07salp_delay000060_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.08
+N
+20.0
+cb07salp_delay000080_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.08
+N
+20.0
+cb07salp_delay000080_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.01
+N
+20.0
+cb07chab_delay000010_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.01
+N
+20.0
+cb07chab_delay000010_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.02
+N
+20.0
+cb07chab_delay000020_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.02
+N
+20.0
+cb07chab_delay000020_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.04
+N
+20.0
+cb07chab_delay000040_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.04
+N
+20.0
+cb07chab_delay000040_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.06
+N
+20.0
+cb07chab_delay000060_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.06
+N
+20.0
+cb07chab_delay000060_z040_mu03_tv10
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.08
+N
+20.0
+cb07chab_delay000080_z040_mu03_tv00
+!
+$bc03/csp_galaxev << !
+cb2007_hr_stelib_m52_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.08
+N
+20.0
+cb07chab_delay000080_z040_mu03_tv10
+!
+mv cb07*_delay*_z040* $SPECFIT_LIB/cb07/z040/

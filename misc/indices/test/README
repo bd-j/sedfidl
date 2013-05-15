@@ -1,0 +1,24 @@
+28 February 1997. Prepared by Guy Worthey.
+
+This tarfile should contain:
+
+1. The 1997 table of index definitions, including the higher-order Balmers.
+
+2. 8 FITS spectra of IDS stars. The wavelength scale should be tweaked
+   via cross-correlation before the index values will match the 
+   publishes ones. These spectra are just for purposes of testing 
+   program for measuring indices. Note that the header CDELT and CRVAL
+   are in units of meters, not Angstroms.
+
+3. A file "mindex.out" which lists the measured index values for the 8 scans, 
+   assuming the wavelength calibration in the header is correct.
+
+4. this README
+
+
+NOTE: The wavelength values for Hgamma and Hdelta are out of date. 
+If you use THIS index table on your own data, change the wavelengths to 
+those listed in Worthey & Ottaviani 1997, ApJS, 111, 377. However, 
+the index values in this tarfile go with the wavelength values listed in
+index.table, so everything here is self-consistent.
+

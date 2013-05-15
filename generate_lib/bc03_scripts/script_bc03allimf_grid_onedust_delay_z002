@@ -1,0 +1,1410 @@
+#
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.01
+N
+20.0
+bc03salp_delay000010_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.01
+N
+20.0
+bc03salp_delay000010_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.02
+N
+20.0
+bc03salp_delay000020_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.02
+N
+20.0
+bc03salp_delay000020_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.04
+N
+20.0
+bc03salp_delay000040_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.04
+N
+20.0
+bc03salp_delay000040_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.06
+N
+20.0
+bc03salp_delay000060_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.06
+N
+20.0
+bc03salp_delay000060_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.08
+N
+20.0
+bc03salp_delay000080_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.08
+N
+20.0
+bc03salp_delay000080_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.10
+N
+20.0
+bc03salp_delay000100_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.10
+N
+20.0
+bc03salp_delay000100_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.12
+N
+20.0
+bc03salp_delay000120_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.12
+N
+20.0
+bc03salp_delay000120_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.14
+N
+20.0
+bc03salp_delay000140_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.14
+N
+20.0
+bc03salp_delay000140_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.16
+N
+20.0
+bc03salp_delay000160_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.16
+N
+20.0
+bc03salp_delay000160_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.18
+N
+20.0
+bc03salp_delay000180_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.18
+N
+20.0
+bc03salp_delay000180_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.20
+N
+20.0
+bc03salp_delay000200_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.20
+N
+20.0
+bc03salp_delay000200_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.30
+N
+20.0
+bc03salp_delay000300_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.30
+N
+20.0
+bc03salp_delay000300_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.40
+N
+20.0
+bc03salp_delay000400_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.40
+N
+20.0
+bc03salp_delay000400_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.50
+N
+20.0
+bc03salp_delay000500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.50
+N
+20.0
+bc03salp_delay000500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.60
+N
+20.0
+bc03salp_delay000600_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.60
+N
+20.0
+bc03salp_delay000600_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.80
+N
+20.0
+bc03salp_delay000800_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.80
+N
+20.0
+bc03salp_delay000800_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.00
+N
+20.0
+bc03salp_delay001000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.00
+N
+20.0
+bc03salp_delay001000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.20
+N
+20.0
+bc03salp_delay001200_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.20
+N
+20.0
+bc03salp_delay001200_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.40
+N
+20.0
+bc03salp_delay001400_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.40
+N
+20.0
+bc03salp_delay001400_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.60
+N
+20.0
+bc03salp_delay001600_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.60
+N
+20.0
+bc03salp_delay001600_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.80
+N
+20.0
+bc03salp_delay001800_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.80
+N
+20.0
+bc03salp_delay001800_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 2.00
+N
+20.0
+bc03salp_delay002000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 2.00
+N
+20.0
+bc03salp_delay002000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 2.50
+N
+20.0
+bc03salp_delay002500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 2.50
+N
+20.0
+bc03salp_delay002500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 3.00
+N
+20.0
+bc03salp_delay003000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 3.00
+N
+20.0
+bc03salp_delay003000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 3.50
+N
+20.0
+bc03salp_delay003500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 3.50
+N
+20.0
+bc03salp_delay003500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 4.00
+N
+20.0
+bc03salp_delay004000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 4.00
+N
+20.0
+bc03salp_delay004000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 4.50
+N
+20.0
+bc03salp_delay004500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 4.50
+N
+20.0
+bc03salp_delay004500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 5.00
+N
+20.0
+bc03salp_delay005000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 5.00
+N
+20.0
+bc03salp_delay005000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 5.50
+N
+20.0
+bc03salp_delay005500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 5.50
+N
+20.0
+bc03salp_delay005500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 6.00
+N
+20.0
+bc03salp_delay006000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 6.00
+N
+20.0
+bc03salp_delay006000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 6.50
+N
+20.0
+bc03salp_delay006500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 6.50
+N
+20.0
+bc03salp_delay006500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 7.00
+N
+20.0
+bc03salp_delay007000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_salp_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 7.00
+N
+20.0
+bc03salp_delay007000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.01
+N
+20.0
+bc03chab_delay000010_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.01
+N
+20.0
+bc03chab_delay000010_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.02
+N
+20.0
+bc03chab_delay000020_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.02
+N
+20.0
+bc03chab_delay000020_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.04
+N
+20.0
+bc03chab_delay000040_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.04
+N
+20.0
+bc03chab_delay000040_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.06
+N
+20.0
+bc03chab_delay000060_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.06
+N
+20.0
+bc03chab_delay000060_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.08
+N
+20.0
+bc03chab_delay000080_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.08
+N
+20.0
+bc03chab_delay000080_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.10
+N
+20.0
+bc03chab_delay000100_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.10
+N
+20.0
+bc03chab_delay000100_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.12
+N
+20.0
+bc03chab_delay000120_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.12
+N
+20.0
+bc03chab_delay000120_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.14
+N
+20.0
+bc03chab_delay000140_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.14
+N
+20.0
+bc03chab_delay000140_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.16
+N
+20.0
+bc03chab_delay000160_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.16
+N
+20.0
+bc03chab_delay000160_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.18
+N
+20.0
+bc03chab_delay000180_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.18
+N
+20.0
+bc03chab_delay000180_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.20
+N
+20.0
+bc03chab_delay000200_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.20
+N
+20.0
+bc03chab_delay000200_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.30
+N
+20.0
+bc03chab_delay000300_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.30
+N
+20.0
+bc03chab_delay000300_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.40
+N
+20.0
+bc03chab_delay000400_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.40
+N
+20.0
+bc03chab_delay000400_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.50
+N
+20.0
+bc03chab_delay000500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.50
+N
+20.0
+bc03chab_delay000500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.60
+N
+20.0
+bc03chab_delay000600_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.60
+N
+20.0
+bc03chab_delay000600_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 0.80
+N
+20.0
+bc03chab_delay000800_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 0.80
+N
+20.0
+bc03chab_delay000800_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.00
+N
+20.0
+bc03chab_delay001000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.00
+N
+20.0
+bc03chab_delay001000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.20
+N
+20.0
+bc03chab_delay001200_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.20
+N
+20.0
+bc03chab_delay001200_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.40
+N
+20.0
+bc03chab_delay001400_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.40
+N
+20.0
+bc03chab_delay001400_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.60
+N
+20.0
+bc03chab_delay001600_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.60
+N
+20.0
+bc03chab_delay001600_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 1.80
+N
+20.0
+bc03chab_delay001800_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 1.80
+N
+20.0
+bc03chab_delay001800_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 2.00
+N
+20.0
+bc03chab_delay002000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 2.00
+N
+20.0
+bc03chab_delay002000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 2.50
+N
+20.0
+bc03chab_delay002500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 2.50
+N
+20.0
+bc03chab_delay002500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 3.00
+N
+20.0
+bc03chab_delay003000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 3.00
+N
+20.0
+bc03chab_delay003000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 3.50
+N
+20.0
+bc03chab_delay003500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 3.50
+N
+20.0
+bc03chab_delay003500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 4.00
+N
+20.0
+bc03chab_delay004000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 4.00
+N
+20.0
+bc03chab_delay004000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 4.50
+N
+20.0
+bc03chab_delay004500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 4.50
+N
+20.0
+bc03chab_delay004500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 5.00
+N
+20.0
+bc03chab_delay005000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 5.00
+N
+20.0
+bc03chab_delay005000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 5.50
+N
+20.0
+bc03chab_delay005500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 5.50
+N
+20.0
+bc03chab_delay005500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 6.00
+N
+20.0
+bc03chab_delay006000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 6.00
+N
+20.0
+bc03chab_delay006000_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 6.50
+N
+20.0
+bc03chab_delay006500_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 6.50
+N
+20.0
+bc03chab_delay006500_z002_mu03_tv10
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 0.0
+ 0.3
+4
+ 7.00
+N
+20.0
+bc03chab_delay007000_z002_mu03_tv00
+!
+$bc03/csp_galaxev << !
+bc2003_hr_m32_chab_ssp.ised
+Y
+ 1.0
+ 0.3
+4
+ 7.00
+N
+20.0
+bc03chab_delay007000_z002_mu03_tv10
+!
+mv bc03*_delay*_z002* $SPECFIT_LIB/bc03/z002/

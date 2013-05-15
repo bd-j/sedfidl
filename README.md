@@ -1,5 +1,7 @@
-SEDFIDL V3.1  (previously specfit_v3)
-===========
+SEDFIDL V3.1  
+=======
+
+(previously specfit_v3)
 
 IDL SED fitting to BC03 and/or CB07 SPS models.  Routines are provided to generate large grids of SPS models SEDs, and to fit these grids to observed SEDs, with support for emission line strengths and total dust luminosities.
 
