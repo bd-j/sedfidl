@@ -4,7 +4,8 @@
 ;
 ; PURPOSE: 
 ;   to return, in the form a_lambda/a_5500, the Milky Way attenuation
-;   curve as parameterized by Cardelli, Clayton and Mathis 1988? 
+;   curve as parameterized by Cardelli, Clayton and Mathis 1989? with
+;   an update from O'Donnell 1994 for the near-UV
 ;
 ; CALLING SEQUNECE:
 ;   a_lambda=cardelli_ztd(wave[,pars])
